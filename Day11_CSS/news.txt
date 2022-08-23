@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="news.css">
+   <title>Document</title>
+</head>
+<body>
+   
+   <header class="banner">
+      <h1> News </h1>
+      <p> Local and National News </p>
+   </header>
+   <nav>
+      <ul>
+         <li> <a href="#"> Main Page |  </a></li>
+         <li>  <a href="#"> About Us | </a> </li>
+         <li><a href="#"> Contact Us</a></li>
+      </ul>
+   </nav>
+
+  <main>
+     <section>
+        <h1> Local News </h1>
+        <article>
+           <header>
+              <h2> Local News About Agenda 1 </h2>
+              <p> This is news for some local Agenda 1 </p>
+           </header>   
+           <p> This contains some local news  </p>
+           <p> This contains some local news  </p>
+        </article>
+        <article>
+         <header>
+            <h2> Local News About Agenda 2 </h2>
+            <p> This is news for some local Agenda 2 </p>
+         </header>   
+         <p> This contains some local news  </p>
+         <p> This contains some local news  </p>
+      </article>
+   </section>
+
+   <section>
+      <h1> International  News </h1>
+      <article>
+         <header>
+            <h2> International News About Agenda 1 </h2>
+            <p> This is news for some International Agenda 1 </p>
+         </header>   
+         <p> This contains some International news  </p>
+         <p> This contains some International news  </p>
+      </article>
+      <article>
+       <header>
+          <h2> International News About Agenda 2 </h2>
+          <p> This is news for some International Agenda 2 </p>
+       </header>   
+       <p> This contains some International news  </p>
+       <p> This contains some International news  </p>
+    </article>
+ </section>
+  </main>
+<aside>
+   <h3> This is the content related to Main Page </h3>
+   <p> Some contents </p>
+</aside>
+
+<footer>
+   <h3>copyright @2022
+      <mark> Imp Text </mark>
+      <small> Can be added to footer </small>  
+   </h3>
+</footer>
+</body>
+</html>

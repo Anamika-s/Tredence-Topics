@@ -1,0 +1,26 @@
+Lever server : 
+
+https://stackbooks-ust.stackroute.in/course/Building-Responsive-and-Interactive-Web-Pages-v2/02-session
+
+CSS Layout
+
+float 
+https://developer.mozilla.org/en-US/docs/Web/CSS/float
+
+
+Flexbox : https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Typical_Use_Cases_of_Flexbox
+
+nav ul {
+       
+   background-color: red;
+justify-content: space-between;
+}
+
+<nav>
+      <ul>
+          <li><a href="#">Page 1</a></li>
+          <li><a href="#">Page 2</a></li>
+          <li><a href="#">Page 3 is longer</a></li>
+          <li><a href="#">Page 4</a></li>
+      </ul>
+  </nav>
