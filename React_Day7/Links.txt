@@ -1,0 +1,5 @@
+Redux > https://redux.js.org/tutorials/essentials/part-1-overview-concepts
+think vs saga > https://www.eternussolutions.com/2020/12/21/redux-thunk-redux-saga/
+
+
+
